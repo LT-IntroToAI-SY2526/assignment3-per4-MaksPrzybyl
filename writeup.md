@@ -15,11 +15,12 @@ This assignment completes our movie chatbot system by implementing action functi
 ## Reflection Questions
 
 1. What are some key programming concepts or techniques that you learned while completing this assignment?
-
+How to use a database in coding, and how easily databases can be added to. I also learned how to use asserts.
 
 
 2. How does the overall movie chatbot system work? Explain the flow from when a user types a query to when they receive an answer.
-
+First, you type in a specific phrase, then, it scrubs through all the checks. If any answers match the prompt, it will list them out.
 
 
 3. What are some real-world applications where this type of pattern-matching chatbot system could be useful? How might you extend or improve this system for practical use?
+This system could be used to organizes somebody's collection. For example, you could plug in all the games in my collection by release year, the system it released on, the publisher, ect... Also, this system could be improved by adding multiple phrases that give the same results. Example: what movies were made in 2007/what movies released in 2007

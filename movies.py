@@ -435,4 +435,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+     (
+        "superbad",
+        "greg mottola",
+        2007,
+        [
+            "jonah hill",
+            "michael cera",
+            "christopher mintz-plasse",
+            "seth rogan",
+            "bill hader",
+            "emma stone",
+            "martha macisaac",
+        ],
+    ),
 ]
